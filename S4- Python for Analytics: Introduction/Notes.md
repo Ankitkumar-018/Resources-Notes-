@@ -1,5 +1,10 @@
 # Python for analytics — introduction
 
+## PPT Link: [Introduction to Python](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/46cb5b84-b0c5-43ca-a48c-3ca4d2ed3210/vbzrt1qU2orBxayl.pptx)
+
+## Collab Practice Code: [Collab Practice Code](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/27f860a6-a4b8-4ba1-9567-e67192ed3b09/GO1lDPxRSatctGsf.ipynb)
+
+
 ## 1. What You'll Learn in This Section
 
 In this lesson, you'll learn to…
